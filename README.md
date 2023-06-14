@@ -8,8 +8,7 @@ Deployed Site: [Blockchain Voting System](https://www.blockchainvotingsystem.com
 Final Project Blog Article: [Read our blog post](https://www.blockchainvotingsystem.com/blog)
 
 Author(s):
-- John Doe: [LinkedIn](https://www.linkedin.com/in/johndoe)
-- Jane Smith: [LinkedIn](https://www.linkedin.com/in/janesmith)
+- David Langat: [LinkedIn](https://www.linkedin.com/in/davidlangat12)
 
 ## Installation
 To install and set up the Blockchain Voting System locally, please follow these steps:
